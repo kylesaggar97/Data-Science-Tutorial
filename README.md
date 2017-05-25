@@ -1,9 +1,9 @@
 # Data-Science-Tutorial
 
-This tutorial offers an introductory tutorial into data science, by analyzing temperature anomaly and energy consumption datasets (both found on www.data.gov).
+This tutorial offers an introductory tutorial into data science, by analyzing temperature anomaly and energy consumption datasets (both found on www.data.gov).  We will attempt to establish a relationship between temperature and energy consumption.
 
 # Download this Repository
-To clone this repository, open a command line prompt and enter:
+To clone this repository, open a command line prompt and enter:<br />
 	<code>git clone "https://github.com/kylesaggar97/Data-Science-Tutorial.git"</code>
 
 # Installing Anaconda
